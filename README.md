@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge Mario Herrera</h1>
-<h3 align="center">I´m a data science student</h3>
+<h3 align="center">I´m a person passionate for learn everything about data science.
+
+Regards from Colombia!!
+</h3>
 
 - 📫 How to reach me **jorgemario790@gmail.com**
 
